@@ -1,0 +1,18 @@
+.header-componant a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    padding: 5px 15px;
+    /* background-color: aquamarine; */
+}
+
+/* .header-componant a:hover {
+    background-color: aqua;
+} */
+
+.active {
+    background-color: pink;
+    color: black;
+}
